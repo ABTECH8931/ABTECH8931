@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ABTECH8931
-- 👀 I’m a FullStack Web Developer
+- 👀 I’m a FullStack Web Developer(Python)
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Projects 
 - 📫 How to reach me +2348131918048(whatsapp only) Abrahamefe307@gmail.com
